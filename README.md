@@ -11,7 +11,7 @@ You may find the original paper [here](https://doi.org/10.1109/IPSN54338.2022.00
 
 * yoloface-master/ dir: The YoloFace model source code for face keypoint recognition. (model weights not included, can be downloaded)
 
-### Files under Jupyter/ directory
+### Files under `Jupyter/` directory
 
 * `facial_keypoints.ipynb`: An *early* design of using NN to achieve facial keypoints detection, including  
 training and testing, as well as the model weights and training/testing data. Note that this implementation  
@@ -19,12 +19,12 @@ is different from the final version in the paper.
 
 The NN model implementation as seen in the paper is not available now.
 
-### Files under Model/ directory
+### Files under `Model/` directory
 
 * `pcm_analysis_script.m`: Analyze pcm wave files collected from earphone.
 * `mix_spec_afterbgr_script.m`: Script to plot mixed spectrogram after background removal.
 
-#### Misc files under Model/ directory
+#### Misc files under `Model/` directory
 
 * `LEVD.m`: Local Extreme Value Detection (LEVD) algorithm.
 * `NewDisplayCallback.m`: Callback function, to display the position of the data cursor.
