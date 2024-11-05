@@ -1,9 +1,9 @@
 # FaceListener related source code
 
 This repository holds related source code for the paper
-"[FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones]https://pittisl.github.io/publication/2022-facelistener/)"
+"[FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones](https://pittisl.github.io/publication/2022-facelistener/)"
 as published in the 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2022.
-You may find the original paper [here].
+You may find the original paper [here](https://doi.org/10.1109/IPSN54338.2022.00019).
 
 ## File Description
 
@@ -50,7 +50,9 @@ The NN model implementation as seen in the paper is not available now.
 Unless otherwise noted, all files under this repository are released with
 the following copyright information:
 
+```
 Copyright (c) 2020-2024 Intelligent Systems Lab, University of Pittsburgh. All Rights Reserved.
+```
 
-For files under `yoloface-master/`, please refer to the individual LICENSE
+For files under `yoloface-master/`, please refer to the individual `LICENSE`
 file within the directory.
