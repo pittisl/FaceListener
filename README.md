@@ -9,7 +9,7 @@ You may find the original paper [here](https://doi.org/10.1109/IPSN54338.2022.00
 
 ### Files from third-party
 
-* yoloface-master/ dir: The YoloFace model source code for face keypoint recognition. (model weights not included, can be downloaded)
+* `yoloface-master/` directory: The YoloFace model source code for face keypoint recognition.
 
 ### Files under `Jupyter/` directory
 
